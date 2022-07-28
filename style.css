@@ -92,20 +92,17 @@ body {
 
 .d-1-1{
     height: 50px;
-    background-color: #48C079;
     display: flex;
     align-items: center;
 }
 .d-1-2{
     height: 50px;
-    background-color: blueviolet;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .d-1-3{
     height: 50px;
-    background-color: crimson;
 }
 .numero {
     display: inline-block;
@@ -123,7 +120,6 @@ body {
 }
 .d-1-4{
     flex: 1;
-    background-color: deepskyblue;
     line-height: 30px;
 }
 
@@ -151,4 +147,9 @@ body {
     font-size: 14px;
     border-top: 2px solid #000;
     padding-left: 10px;
+}
+
+.aviso--grande{
+    font-size: 40px;
+    font-weight: bold;
 }

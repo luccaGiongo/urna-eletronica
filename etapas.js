@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: '38111',
+                numero: '22222',
                 nome: 'Fulano de Tal',
                 partido: 'ABC',
                 fotos:[
